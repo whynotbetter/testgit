@@ -1,5 +1,6 @@
 package test1;
 
 public class TestClass1 {
-	//这是一个测试类
+	//鍒氭墠鐨勬敞閲婁贡鐮佷簡
+	String name;
 }
